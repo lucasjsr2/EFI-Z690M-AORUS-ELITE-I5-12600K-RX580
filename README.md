@@ -1,13 +1,13 @@
-# EFI - Intel Desktop 12600K - Opencore 1.0.0 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.5 - AMD RX 6750XT
+# EFI - Intel Desktop 12600K - Opencore 1.0.0 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.5 - AMD RX 580
 
 
-![about](https://raw.githubusercontent.com/lucasjsr2/EFI-Z690M-AORUS-ELITE-I5-12600K-RX6750XT/main/.github/about.png)
+![about](https://raw.githubusercontent.com/lucasjsr2/EFI-Z690M-AORUS-ELITE-I5-12600K-RX580/main/.github/about.png)
 
 Note|Description
 :----|:----
 macOS|Sonoma 14.5
 Motherboard|Gigabyte Z690M AORUS ELITE DDR4
-GPU|MSI AMD RX 6750XT MECH 2X OC 12Gb
+GPU|MSI AMD RX 580 XFX 8Gb
 Processor|Intel® Core™ i5-12600K - @5.1Ghz/4.0Ghz
 NVME SSD|XPG S41 TUF 512Gb --- WD Black SN770 M.2 PCIe Gen4x4
 RAM|4x XPG Gammix D45 8Gb 3600Mhz DDR4 - @3800Mhz
@@ -60,13 +60,13 @@ iMacPro1,1|Because GPU integrated in 12th gen without support for Apple.
 - Intel SGX
 - Intel Platform Trust
 - CFG Lock (MSR 0xE2 write protection)
-	- This must be off, if you can't find the option then **`ENABLE`** `AppleXcpmCfgLock`. 
+	- This must be off, if you can't find the option then **`ENABLE`** `AppleXcpmCfgLock`.
 	- Your hack will not boot with `CFG-Lock` enabled.
 
 ### Enable
 - VT-x
-- Above 4G decoding. 
-	- This must be on, if you can't find the option then add `npci=0x2000` to `boot-args`. 
+- Above 4G decoding.
+	- This must be on, if you can't find the option then add `npci=0x2000` to `boot-args`.
 	- Do not have both this option and `npci` on `boot-args` enabled at the same time.
 	- When enabling Above4G, Resizable BAR Support may become an available on some motherboards. Please ensure this is **`DISABLED`** instead of set to Auto.
 - Hyper-Threading
