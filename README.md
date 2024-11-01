@@ -1,4 +1,4 @@
-# EFI - Intel Desktop 12600K - Opencore 1.0.1 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.5 - AMD RX 580
+# EFI - Intel Desktop 12600K - Opencore 1.0.2 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.5 - AMD RX 580
 
 
 ![about](https://raw.githubusercontent.com/lucasjsr2/EFI-Z690M-AORUS-ELITE-I5-12600K-RX580/main/.github/about.png)
@@ -16,7 +16,7 @@ Ethernet | Intel® I225-V 2.5GbE LAN
 Power supply | XPG Core Reactor 850W
 Air Cooler | Thermalright Phantom Spirit SE
 SMBIOS | iMacPro1,1
-Opencore | 1.0.1
+Opencore | 1.0.2
 
 # Basic Steps
 

@@ -1501,6 +1501,8 @@
 			<key>UnblockFsConnect</key>
 			<false/>
 		</dict>
+		<key>Unload</key>
+		<array/>
 		<key>ReservedMemory</key>
 		<array/>
 	</dict>
