@@ -1,22 +1,26 @@
-# EFI - Intel Desktop 12600K - Opencore 1.0.2 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.5 - AMD RX 580
+# EFI - Intel Desktop 12600K - Opencore 1.0.2 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sequoia 15.1 - AMD RX 580
 
 
 ![about](https://raw.githubusercontent.com/lucasjsr2/EFI-Z690M-AORUS-ELITE-I5-12600K-RX580/main/.github/about.png)
 
 Note|Description
 :----|:----
-macOS|Sonoma 14.5
+macOS|Sequoia 15.1 (24B83)
 Motherboard|Gigabyte Z690M AORUS ELITE DDR4
 GPU|MSI AMD RX 580 XFX 8Gb
 Processor|Intel® Core™ i5-12600K - @5.1Ghz/4.0Ghz
 NVME SSD|XPG S41 TUF 512Gb --- WD Black SN770 M.2 PCIe Gen4x4
-RAM|4x XPG Gammix D45 8Gb 3600Mhz DDR4 - @3800Mhz
+RAM|4x XPG Gammix D45 8Gb 3600Mhz DDR4 - @3900Mhz
 Wifi/Bluetooth | WIFI 6E FENVI FV-AXE3000RGB - AX210 - Bluetooth 5.2
 Ethernet | Intel® I225-V 2.5GbE LAN
 Power supply | XPG Core Reactor 850W
 Air Cooler | Thermalright Phantom Spirit SE
 SMBIOS | iMacPro1,1
 Opencore | 1.0.2
+
+
+## Not Working
+- Bluetooth (Sequoia driver not available yet)
 
 # Basic Steps
 
@@ -74,3 +78,4 @@ iMacPro1,1|Because GPU integrated in 12th gen without support for Apple.
 - EHCI/XHCI Hand-off
 - OS type: Windows 8.1/10 UEFI Mode
 - SATA Mode: AHCI
+

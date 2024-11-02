@@ -540,24 +540,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AirportItlwm.kext</string>
-				<key>Comment</key>
-				<string>AirportItlwm.kext</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AirportItlwm</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>AppleIntelI210Ethernet.kext</string>
 				<key>Comment</key>
 				<string>AppleIntelI210Ethernet.kext</string>
@@ -619,6 +601,24 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelMausi</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>itlwm.kext</string>
+				<key>Comment</key>
+				<string>itlwm.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/itlwm</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1188,7 +1188,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>XXXXXXXX</string>
+			<string>C02720701GUJG36JC</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1202,9 +1202,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>XXXXXXXX</string>
+			<string>C02TQQZMHX87</string>
 			<key>SystemUUID</key>
-			<string>XXXXXXXX</string>
+			<string>A2FEA6C1-79F5-439B-94A8-EAF21F00B80E</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
