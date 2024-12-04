@@ -1,11 +1,11 @@
-# EFI - Intel Desktop 12600K - Opencore 1.0.2 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sequoia 15.1 - AMD RX 580
+# EFI - Intel Desktop 12600K - Opencore 1.0.3 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sequoia 15.1.1 - AMD RX 580
 
 
 ![about](https://raw.githubusercontent.com/lucasjsr2/EFI-Z690M-AORUS-ELITE-I5-12600K-RX580/main/.github/about.png)
 
 Note|Description
 :----|:----
-macOS|Sequoia 15.1 (24B83)
+macOS|Sequoia 15.1.1 (24B83)
 Motherboard|Gigabyte Z690M AORUS ELITE DDR4
 GPU|MSI AMD RX 580 XFX 8Gb
 Processor|Intel® Core™ i5-12600K - @5.1Ghz/4.0Ghz
@@ -16,7 +16,7 @@ Ethernet | Intel® I225-V 2.5GbE LAN
 Power supply | XPG Core Reactor 850W
 Air Cooler | Thermalright Phantom Spirit SE
 SMBIOS | iMacPro1,1
-Opencore | 1.0.2
+Opencore | 1.0.3
 
 
 ## Not Working
