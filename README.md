@@ -19,9 +19,6 @@ SMBIOS | iMacPro1,1
 Opencore | 1.0.3
 
 
-## Not Working
-- Bluetooth (Sequoia driver not available yet)
-
 # Basic Steps
 
 1. Generate and complete your SMBIOS infos - **ALWAYS**;
