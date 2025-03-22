@@ -1108,10 +1108,6 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
-				<key>bluetoothInternalControllerinfo</key>
-				<data>AAAAAAAAAAAAAAAAAAA=</data>
-				<key>bluetoothExternalDongleFailed</key>
-				<data>AA==</data>
 				<key>ForceDisplayRotationInEFI</key>
 				<integer>0</integer>
 				<key>SystemAudioVolume</key>
@@ -1124,8 +1120,6 @@
 				<string>en-US:0</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
-				<key>bluetoothInternalControllerInfo</key>
-				<data>AAAAAAAAAAAAAAAAAAA=</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1148,8 +1142,6 @@
 				<string>ForceDisplayRotationInEFI</string>
 				<string>prev-lang:kbd</string>
 				<string>csr-active-config</string>
-				<string>bluetoothExternalDongleFailed</string>
-				<string>bluetoothInternalControllerInfo</string>
 			</array>
 		</dict>
 		<key>LegacyOverwrite</key>
